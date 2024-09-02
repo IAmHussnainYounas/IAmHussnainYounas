@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HussnainYounas
+- 👋 Hi, I’m @SoftwareEngineer
 - 👀 I’m interested in Software Engineering.
 - 🌱 I’m currently learning logic building and development of large scal applications.
 - 😄 Pronouns: SE, Code Artist
